@@ -67,9 +67,7 @@ ___
 ___
 
 ### MENU
-
-![template](https://github.com/RED-DEMON-ANNOS/Beast-Dump/blob/Screenshots/Screenshot_20221118-205741.png)
-
+![template](https://github.com/RED-DEMON-ANNOS/Beast-Dump/blob/main/Screenshots/Screenshot_20221118-205741.png)
 
 <p align="center">
   <a href="https://github.com/RED-DEMON-ANNOS"><img src="https://github-readme-stats.vercel.app/api?username=RED-DEMON-ANNOS&theme=tokyonight&show_icons=true" /></a>
