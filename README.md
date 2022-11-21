@@ -44,7 +44,7 @@ python Beast.py
 
 ### MENU
 
-![template](https://github.com/RED-DEMON-ANNOS/Beast-Dump/blob/main/data/Screenshot_20221118-205741.jpg)
+![template](https://github.com/https://github.com/RED-DEMON-ANNOS/Beast-Dump/blob/main/data/Screenshot_20221118-205741.png)
 
 
 
