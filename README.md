@@ -43,18 +43,23 @@ python Beast.py
 ```
 
 ### MENU
+
 ![template](https://github.com/RED-DEMON-ANNOS/Beast-Dump/blob/main/data/Screenshot_20221118-205741.jpg)
 
 
 
+### MENU2
+
+
 ![template](https://github.com/RED-DEMON-ANNOS/Beast-Dump/blob/main/data/Screenshot_20221119-151446.jpg)
+
 
 
 # Visitors :
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/RED-DEMON-ANNOS/Beast-Dump/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/RED-DEMON-ANNOS/count.svg)
 
 
 #### MY SOCIAL MEDIA
