@@ -43,17 +43,7 @@ python Beast.py
 ```
 
 ### MENU
-
-![template](https://github.com/https://github.com/https://github.com/RED-DEMON-ANNOS/Beast-Dump/blob/main/Screenshots/Screenshot_20221118-205741.png)
-
-
-
-### MENU2
-
-
-![template](https://github.com/RED-DEMON-ANNOS/Beast-Dump/blob/main/data/Screenshot_20221119-151446.jpg)
-
-
+![template](https://github.com/https://github.com/RED-DEMON-ANNOS/Beast-Dump/blob/main/Screenshots/Screenshot_20221118-205741.png)
 
 # Visitors :
 
