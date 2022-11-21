@@ -68,7 +68,7 @@ ___
 
 ### MENU
 
-![template](https://github.com/https://github.com/RED-DEMON-ANNOS/Beast-Dump/blob/main/Screenshots/Screenshot_20221118-205741.png)
+![template](https://github.com/https://github.com/RED-DEMON-ANNOS/Beast-Dump/blob/Screenshots/Screenshot_20221118-205741.png)
 
 
 <p align="center">
