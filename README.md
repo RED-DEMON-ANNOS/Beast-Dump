@@ -42,9 +42,6 @@ python Beast.py
 
 ```
 
-### MENU
-![template](https://github.com/https://github.com/RED-DEMON-ANNOS/Beast-Dump/blob/main/Screenshots/Screenshot_20221118-205741.png)
-
 # Visitors :
 
 
@@ -68,6 +65,12 @@ ___
 * [ ` Black Demon ` ](https://github.com/Black19114) 
 * [ ` Bilal Khan ` ](https://github.com/BIL4L-KH4N) 
 ___
+
+### MENU
+
+![template](https://github.com/https://github.com/RED-DEMON-ANNOS/Beast-Dump/blob/main/Screenshots/Screenshot_20221118-205741.png)
+
+
 <p align="center">
   <a href="https://github.com/RED-DEMON-ANNOS"><img src="https://github-readme-stats.vercel.app/api?username=RED-DEMON-ANNOS&theme=tokyonight&show_icons=true" /></a>
 </p>
